@@ -76,3 +76,48 @@
 {"level":"info","message":"::1 - - [16/Oct/2025:21:02:19 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 179 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
 {"level":"info","message":"Sign out user with email krushna12@example.com","service":"user-service"}
 {"level":"info","message":"::1 - - [16/Oct/2025:21:02:55 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:30:50 +0000] \"GET /health HTTP/1.1\" 500 80 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:32:25 +0000] \"GET /health HTTP/1.1\" 500 80 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:35:01 +0000] \"GET /health HTTP/1.1\" 403 63 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"user-service","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:35:44 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 63 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"user-service","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:36:19 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:36:21 +0000] \"GET /health HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:37:58 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:38:19 +0000] \"GET /health HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:39:14 +0000] \"GET /health HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:41:54 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:18 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:19 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:20 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:21 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:22 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:23 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:24 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:25 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:26 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:26 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:42:28 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
