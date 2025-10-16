@@ -1,0 +1,78 @@
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:16:56:06 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:16:56:06 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:16:56:07 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:16:56:48 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:16:56:49 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:16:56:55 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:17:18:36 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:17:18:36 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:17:33:01 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:17:33:01 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:17:33:07 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:17:33:26 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:17:33:49 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:26:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:27:49 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:28:09 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:28:18 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:28:19 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:28:45 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:36:12 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:36:19 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 60 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Sign up user Krushna with email test@example.com","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:18:37:58 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 122 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"error","message":"Failed to create user: Error: Failed query: insert into \"users\" (\"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\") values (default, $1, $2, default, $3, default, default) returning \"id\", \"name\", \"email\", \"role\", \"created_at\"\nparams: Krushna,krushna12@example.com,admin","service":"user-service"}
+{"level":"error","message":"signUp failed Error creating user: Error: Failed query: insert into \"users\" (\"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\") values (default, $1, $2, default, $3, default, default) returning \"id\", \"name\", \"email\", \"role\", \"created_at\"\nparams: Krushna,krushna12@example.com,admin","service":"user-service","stack":"Error: Error creating user: Error: Failed query: insert into \"users\" (\"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\") values (default, $1, $2, default, $3, default, default) returning \"id\", \"name\", \"email\", \"role\", \"created_at\"\nparams: Krushna,krushna12@example.com,admin\n    at createUser (file:///C:/Users/Asus/WebstormProjects/acquisitions/src/services/auth.service.js:28:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async signUp (file:///C:/Users/Asus/WebstormProjects/acquisitions/src/controllers/auth.controller.js:22:22)"}
+{"level":"info","message":"::1 - - [16/Oct/2025:19:07:38 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 33 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"krushna12@example.com created succesfully","service":"user-service"}
+{"level":"info","message":"Sign up user Krushna with email krushna12@example.com","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:19:11:27 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 147 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Starting app","service":"user-service"}
+{"level":"info","message":"Sign in user with email krushna12@example.com","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:02:19 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 179 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
+{"level":"info","message":"Sign out user with email krushna12@example.com","service":"user-service"}
+{"level":"info","message":"::1 - - [16/Oct/2025:21:02:55 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.45.0\"","service":"user-service"}
